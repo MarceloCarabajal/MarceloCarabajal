@@ -73,7 +73,6 @@
 
 <p align="center">
 
-<a href="https://marcelocarabajal.github.io/portfolio/"><img alt="Website" src="https://img.shields.io/badge/marcelocarabajal.github.io/portfolio/-black?style=flat-square&logo=google-chrome"></a>
 
 
 <a href="https://www.linkedin.com/in/marcelo-carabajal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marcelo%20Carabajal-blue?style=flat-square&logo=linkedin"></a>
