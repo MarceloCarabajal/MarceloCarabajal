@@ -78,7 +78,7 @@
 
 <a href="https://www.linkedin.com/in/marcelo-carabajal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marcelo%20Carabajal-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/marce.carabajal/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-marce.carabajal-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/marce.carabajal/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Marcelo%20Carabajal-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:marce.tsgia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marce.tsgia@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
