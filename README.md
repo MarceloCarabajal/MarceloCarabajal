@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Currently studying Programming Technique & Full Stack web development.
 
-- 🌱 &nbsp; Frontend Web Developer.
+- 🌱 &nbsp; Developer.
 
 - ✍️ &nbsp; Pursuing Full-Stack Web Development.
 
