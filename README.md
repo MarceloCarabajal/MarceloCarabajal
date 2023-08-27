@@ -52,8 +52,6 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 💻  I have experience with and/or am currently studying the following tech stack:
-![Tech Stack](https://skills.thijs.gg/icons?i=html,css,sass,js,react,sql,materialui,bootstrap,firebase,c++,docker,linuxgit,figma,postman,markdown)
 
 
 <h3>🛠 To Learn</h3>
