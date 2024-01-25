@@ -8,7 +8,7 @@
 const marcelocarabajal = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Javascript, Typescript, Java, Android Studio, C++, SQL],
-  tools: [React, Redux-Toolkit, Styled-Components, MUI, ]
+  tools: [React, Redux-Toolkit, Styled-Components, MUI]
 }
 ```
 
