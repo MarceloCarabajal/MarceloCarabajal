@@ -40,7 +40,6 @@ const marcelocarabajal = {
  <h4>💻 &nbsp; Frameworks, Platforms and Libraries</h4> 
  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 [![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%233D3D3D.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
