@@ -7,8 +7,8 @@
 ```javascript
 const marcelocarabajal = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, Javascript, Typescript, Java, Android Studio, C++, SQL],
-  tools: [React, Redux-Toolkit, Styled-Components, MUI]
+  code: [HTML, CSS, Javascript, Typescript, Java, C++, SQL],
+  tools: [React, Redux-Toolkit, Android Studio, MUI]
 }
 ```
 
@@ -30,7 +30,6 @@ const marcelocarabajal = {
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![SQL](https://img.shields.io/badge/SQL-%230074D1.svg?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 
@@ -63,6 +62,7 @@ const marcelocarabajal = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logo)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-%23000000.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/ide/)
 [![Code::Blocks](https://img.shields.io/badge/Code::Blocks-%23000000.svg?style=for-the-badge&logo=codeblocks&logoColor=white)](http://www.codeblocks.org/)
 [![NetBeans](https://img.shields.io/badge/NetBeans-%231B6AC6.svg?style=for-the-badge&logo=netbeans&logoColor=white)](https://netbeans.apache.org/)
