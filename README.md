@@ -76,13 +76,6 @@ const marcelocarabajal = {
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
 
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; Backend Stack
-
 <hr>
 
 
