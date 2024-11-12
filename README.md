@@ -7,18 +7,15 @@
 ```javascript
 const marcelocarabajal = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, Javascript, Typescript, Java, C++, SQL],
-  tools: [React, Redux-Toolkit, Android Studio, MUI]
+  code: [ JavaScript, TypeScript, Java, React.Js, MongoDB, SQL ],
+  tools: [ Redux-Toolkit, Android Studio, MUI, Docker ]
 }
 ```
 
 
-- 🌱 &nbsp; Developer.
+- 🌱 &nbsp; Full Stack Developer.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-
-- 🎓 &nbsp; Currently studying Programming Technique & Full Stack web development.
-
+- 🎓 &nbsp; Currently studying Programming Technique.
 
 
 
@@ -42,8 +39,6 @@ const marcelocarabajal = {
 [![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%233D3D3D.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
@@ -63,14 +58,11 @@ const marcelocarabajal = {
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logo)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-[![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-%23000000.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/ide/)
 [![Code::Blocks](https://img.shields.io/badge/Code::Blocks-%23000000.svg?style=for-the-badge&logo=codeblocks&logoColor=white)](http://www.codeblocks.org/)
 [![NetBeans](https://img.shields.io/badge/NetBeans-%231B6AC6.svg?style=for-the-badge&logo=netbeans&logoColor=white)](https://netbeans.apache.org/)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
